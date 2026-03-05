@@ -13,3 +13,12 @@ Geographical Revenue Mapping: Visualized sales and profit concentration across g
 Profitability Correlation: Employed scatter plot analysis to visualize the direct relationship between total sales and profit per product, identifying high-revenue but low-margin outliers.
 
 Granular Order Tracking: Engineered a comprehensive data matrix, cross-filtered by global slicers (Date, Product Line, Customer Segment, Promotion Category) for row-level auditing.
+
+# 💻 Technical Skills Demonstrated
+Advanced DAX: CALCULATE, SAMEPERIODLASTYEAR, Time Intelligence, custom metrics.
+
+Data Modeling: 1-to-Many relationships, Star Schema design, cross-filter direction management.
+
+UI/UX Design: Standardized corporate color palettes, negative space utilization, hierarchical navigation, and synced cross-page slicers.
+
+Advanced Visualizations: Field Parameter toggles, Treemaps, Scatter Plots, and conditional formatting.
